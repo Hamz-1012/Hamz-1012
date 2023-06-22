@@ -1,8 +1,8 @@
-# HATIM SAWAI
-Pursuing Computer Engineering At Sardar Patel Institute of Technology  
+# Hamza ANsari
+Pursuing Information Technology At Shah and Anchor Kuttchi Engineering College 
 
-Email: hatimsawai76@gmail.com  
-Student Email: hatim.sawai@spit.ac.in    
+Email: hamza.b1012@@gmail.com  
+Student Email: hamza.ansari17602@sakec.ac.in    
 
 # MY TECH SKILLS   
 <img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamz-1012&show_icons=true&locale=en&langs_count=6&layout=compact&theme=gruvbox" alt="Hamz-1012"/>  
@@ -10,20 +10,13 @@ Student Email: hatim.sawai@spit.ac.in
 • Languages: C, C++, Java, & Python  
 • Frontend: Html, CSS, JS  
 • Frontend Frameworks: Bootstrap, Tailwind, React  
-• Backend: Flask & Django (Python)  
-• Databases: MySQL, SQLite & MongoDB  
+• Backend: 
+• Databases: MySQL & MongoDB  
 • Version-Control: Git & Github     
 • Presentation: MS Office, Canva & Figma     
 
 # MY PROJECTS
-• Learning Machine Learning & NLP in Python (Latest - 2023)  
-• Worked on "DevBuddy" a social plaform for developers (2nd Place - SE Hackathon 2023)  
-• Made an AI Product Reviewer (ReviewScope) (Sem IV B.Tech. CE 2023)    
-• Collaborated on the event website for "Code Red" - Oculus Coding League (2022-23)    
-• Made a Hospital Website as DBMS Mini-Project (SEM III B.Tech CE 2022)  
-• Made a simple Crypto Blockchain using linked lists as DS Mini-Project (Sem III B.Tech CE 2022)  
-• Made a discord bot (StarBot) as a general multipurpose bot (2021)  
-• Made many Python Based Mini Projects (2021)  
+•  
 
 # GITHUB STATS
 
