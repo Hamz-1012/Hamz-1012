@@ -1,4 +1,4 @@
-<img src="https://postimg.cc/GTQtfqYS" alt="Screenshot-20230110-111546" border="0" width="100%">
+<img src="https://i.postimg.cc/5jcz6rt1/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png" alt="Screenshot-20230110-111546" border="0" width="100%">
 
 # HAMZA ANSARI
 Pursuing Computer Engineering At Sardar Patel Institute of Technology  
