@@ -1,7 +1,7 @@
 # Hamza Ansari
 Pursuing Information Technology At Shah and Anchor Kuttchi Engineering College 
 
-Email: hamza.b1012@@gmail.com  
+Email: hamza.b1012@gmail.com  
 Student Email: hamza.ansari17602@sakec.ac.in    
 
 # MY TECH SKILLS   
