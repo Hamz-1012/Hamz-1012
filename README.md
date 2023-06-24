@@ -20,9 +20,9 @@ Student Email: hamza.ansari17602@sakec.ac.in
 
 # GITHUB STATS
 
-<!-- <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Hamz-1012&theme=react" width = "97.5%">
-</p> -->
+<<p align="center">
+  <img src="[![687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png](https://i.postimg.cc/5jcz6rt1/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)](https://postimg.cc/GTQtfqYS)" width = "97.5%">
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hamz-1012&count_private=true&show_icons=true&&theme=gruvbox&include_all_commits=true" width="46%">
