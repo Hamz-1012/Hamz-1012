@@ -1,10 +1,10 @@
 <img src="https://i.postimg.cc/5jcz6rt1/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png" alt="Screenshot-20230110-111546" border="0" width="100%">
 
 # HAMZA ANSARI
-Pursuing Computer Engineering At Sardar Patel Institute of Technology  
+Pursuing Information Technology At Shah and Anchor Kuttchi Engineering College
 
 Email: hamza.b1012@gmail.com  
-Student Email: hamza.b17602@sakec.ac.in   
+Student Email: hamza.ansari17602@sakec.ac.in   
 
 # MY TECH SKILLS   
 <img align="right" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamz-1012&show_icons=true&locale=en&langs_count=6&layout=compact&theme=gruvbox" alt="Hamz-1012"/>  
